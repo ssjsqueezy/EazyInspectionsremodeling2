@@ -162,11 +162,6 @@ footer.social-icons img {
 /* Responsive */
 @media (max-width: 768px) {
 
-  .nav-links {
-    flex-direction: column;
-    align-items: center;
-    gap: 0.5rem;
-  }
 
   .social-icons {
     justify-content: center;
