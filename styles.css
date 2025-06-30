@@ -162,6 +162,10 @@ footer.social-icons img {
 /* Responsive */
 @media (max-width: 768px) {
 
+  .navbar {
+  position: relative;
+  top: -120px;
+  }
 
   .social-icons {
     justify-content: center;
